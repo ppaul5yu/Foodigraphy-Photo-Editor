@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Foodiegraphy</string>
+    <string name="label_crop">Crop</string>
+    <string name="label_flip">Flip</string>
+    <string name="label_brightness">Brightness</string>
+    <string name="label_rotate">Rotate</string>
+    <string name="label_statution">Staturation</string>
+    <string name="label_filter">Filter</string>
+    <string name="label_gallary">Gallary</string>
+</resources>

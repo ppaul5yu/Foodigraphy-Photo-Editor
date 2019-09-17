@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">14dp</dimen>
+    <dimen name="editor_size">36dp</dimen>
+    <dimen name="normal_margin">7dp</dimen>
+    <dimen name="large_margin">18dp</dimen>
+</resources>
